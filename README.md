@@ -3,7 +3,7 @@
 <br/>
 
 ## About me :herb:
-> My name is Rahaf Nasser, I'm graduated from Imam Mohammad Ibn Saud Islamic University. I have Bachelor's degree in Computer Science. 
+> My name is Rahaf Nasser, I graduated from Imam Mohammad Ibn Saud Islamic University. I have Bachelor's degree in Computer Science. 
 Looking forward to learn new technical skills and develop my practical experince.
  
 
