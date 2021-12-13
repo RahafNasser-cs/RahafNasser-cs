@@ -56,7 +56,7 @@ Looking forward to learn new technical skills and develop my practical experince
 <br/><br/>
 
 ## Cooking now :fire:
-> Currently, I am learning a Kotlin program language with Tuwaiq Academy. I'm interested about mobile application development. I can't wait to built my own an android app. <img src="https://c.tenor.com/oFeQLr4R2zQAAAAi/peach-cat-cute.gif" width="35px"> 
+> Currently, I am learning a Kotlin program language with Tuwaiq Academy. I'm interested about mobile application development. I can't wait to built my own an Android app. <img src="https://c.tenor.com/oFeQLr4R2zQAAAAi/peach-cat-cute.gif" width="35px"> 
  
 
 <br/><br/>
