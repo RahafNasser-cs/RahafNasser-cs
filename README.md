@@ -2,9 +2,9 @@
 
 <br/>
 
-## About me :herb:
+<!-- ## About me :herb:
 > My name is Rahaf Nasser, I graduated from Imam Mohammad Ibn Saud Islamic University. I have Bachelor's degree in Computer Science. 
-Looking forward to learn new technical skills and develop my practical experince.
+Looking forward to learn new technical skills and develop my practical experince. -->
  
 
 <br/>
@@ -14,21 +14,25 @@ Looking forward to learn new technical skills and develop my practical experince
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+     <td width="20%" align="center">
+        <span><strong>Kotlin</strong></span><br><br><br>
+        <img height="64px" src="https://user-images.githubusercontent.com/92260346/152690292-718a3889-6cf3-404b-a82c-8a2e57ed699d.jpg">
+      </td>
+     <td width="20%" align="center">
+        <span><strong>Java</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+      </td>
+      <td width="20%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
       </td>
     </tr>
   </tbody>
