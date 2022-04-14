@@ -58,19 +58,20 @@ Looking forward to learn new technical skills and develop my practical experince
 </table>
 
 <br/><br/>
-
+<!-- 
 ## Cooking now :fire:
-> Currently, I am learning a Kotlin program language with Tuwaiq Academy. I'm interested about mobile application development. I can't wait to built my own an Android app. <img src="https://c.tenor.com/oFeQLr4R2zQAAAAi/peach-cat-cute.gif" width="35px"> 
+> Currently, I am learning a Kotlin program language with Tuwaiq Academy. I'm interested about mobile application development. I can't wait to built my own an Android app. <img src="https://c.tenor.com/oFeQLr4R2zQAAAAi/peach-cat-cute.gif" width="35px">  -->
  
 
-<br/><br/>
+<!-- <br/><br/>
 <hr/>
-<br/>
+<br/> -->
 
+### Take a [look](https://github.com/RahafNasser-cs?tab=repositories)!
+<!-- 
 ### And now you know who I am :bomb:.
 
-<img src="https://media0.giphy.com/media/KcmomUqNrkIJ2Vn4pO/giphy.gif" width="150px">
+<img src="https://media0.giphy.com/media/KcmomUqNrkIJ2Vn4pO/giphy.gif" width="150px"> -->
 
-# Take a [look](https://github.com/RahafNasser-cs?tab=repositories)!
 
 
