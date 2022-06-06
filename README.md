@@ -1,5 +1,6 @@
-# Hi <img src="https://c.tenor.com/yYDKkCmqyYEAAAAi/hi-piu-piu.gif" width="50px"> I'm [Rahaf](https://github.com/RahafNasser-cs)!
+# Hi I'm [Rahaf](https://github.com/RahafNasser-cs)!
 
+<!-- <img src="https://c.tenor.com/yYDKkCmqyYEAAAAi/hi-piu-piu.gif" width="50px" >  -->
 <br/>
 
 <!-- ## About me :herb:
@@ -40,8 +41,8 @@ Looking forward to learn new technical skills and develop my practical experince
 
 <br/> 
 
-## Tools <img src="https://c.tenor.com/Ay5KbGo9bLAAAAAi/hammer-and-wrench-objects.gif" width="24px">
-
+## Tools 
+<!-- <img src="https://c.tenor.com/Ay5KbGo9bLAAAAAi/hammer-and-wrench-objects.gif" width="24px"> -->
 <table>
   <tbody>
     <tr valign="top">
