@@ -4,4 +4,4 @@ This repository contains a collection of simple Android projects where I have im
 
 The projects are designed as small, focused implementations rather than complete applications. They serve as hands-on exercises to improve my Android development skills.
 
-Fell free to explore the code! 🚀
+Feel free to explore the code! 🚀
